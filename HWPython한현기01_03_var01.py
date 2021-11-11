@@ -2,7 +2,7 @@ x = 5
 y ="han"
 print(type(x))
 print(type(y))
-
+ 
 
 
 
@@ -12,7 +12,7 @@ print(y)
 print(z)
 
 
-x =y =z ="orange" 
+x = y = z ="orange" 
 print(x)
 print(y)
 print(z)
